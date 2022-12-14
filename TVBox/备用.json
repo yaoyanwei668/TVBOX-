@@ -9,7 +9,7 @@
     "channels": [{
       "name": "live",
       "urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9qc2QuY2RuLnp6a28uY24vZ2gveWFveWFud2VpNjY4L1RWQk9YLUBtYWluL1RWQm94
-LyVFNCVCOCU4MCVFNiU5QyVBOCVFNyU5QiVCNCVFNiU5MiVBRCVFNiVCQSU5MC50eHQ=="]
+LyVFNCVCOCU4MCVFNiU5QyVBOCVFNyU5QiVCNCVFNiU5MiVBRCVFNiVCQSU5MC50eHQ="]
     }]
   }],
 
